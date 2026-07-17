@@ -30,3 +30,11 @@ This repository contains my learning journey in **C** and **C++**, including:
 * C++
 * Visual Studio Code / Code::Blocks
 
+## Index
+* Sorting algorithms
+  * Bubble sort
+  * Insertion sort
+*  Linked list
+
+
+
