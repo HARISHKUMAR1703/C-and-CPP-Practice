@@ -34,6 +34,9 @@ This repository contains my learning journey in **C** and **C++**, including:
 * Sorting algorithms
   * Bubble sort
   * Insertion sort
+* Searching algorithms
+  * Linear search
+  * Binary search 
 *  Linked list
 
 
